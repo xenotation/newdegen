@@ -1,15 +1,15 @@
 # Site/SEO settings
-email: okay@samesies.io
+email: av0id.biz@gmail.com
 baseurl: ""
-permalink: /:year/:month/:day/:title/
+permalink: /:year/:title/
 google_analytics: 
 
-name: Thomas Vaeth
+name: Niki the Low
 title: НОВА ДЕГЕНЕРАЦИЯ
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
-url: http://barber.samesies.io
-twitter_username: thomasvaeth
+  BМалак блог за изкуство, теория и още нещо.
+url: https://newdegeneration.netlify.com/
+twitter_username: avoid1
 default_img: /assets/images/seo.jpg
 social:
   - name: twitter

@@ -33,13 +33,13 @@
   &__title {
     @extend %font-header;
 
-    font-size: $font-xsmall;
+    font-size: 0.9vw;
     color: $color-black;
   }
 
   &__list {
     @extend %no-list-style;
-
+	
     display: flex;
     align-items: center;
     
