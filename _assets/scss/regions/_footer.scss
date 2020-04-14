@@ -2,8 +2,8 @@
 // Footer
 //---------------------------------------------- 
 .footer {
-  color: $color-white;
-  background-color: $color-black;
+  color: $color-black;
+  background-color: $color-white;
   border-top: $border;
 
   &__container {
@@ -15,10 +15,10 @@
     @extend %no-list-style;
 
     flex-wrap: wrap;
-
+    
     & > * {
       margin-bottom: 2em;
-
+    
       &:not(:last-child) {
         margin-right: 1em;
       }
@@ -27,13 +27,13 @@
 
   &__link {
     font-size: $font-small;
-    color: $color-white;
+    color: $color-black;
     transition: color 200ms ease-in-out;
 
     &:hover,
     &:active,
     &:focus {
-      color: $color-grey;
+      color: $color-black;
     }
   }
 
@@ -44,10 +44,10 @@
     & > *:not(:last-child) {
       margin-right: 0.75em;
     }
-
+    
     a {
       font-size: 1.25em;
-      color: $color-white;
+      color: $color-black;
     }
   }
 }

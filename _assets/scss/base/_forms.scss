@@ -36,11 +36,11 @@ textarea {
 
   .footer & {
     color: $color-white;
-    border: 2px solid rgba($color-white, 0.6);
+    border: 2px solid rgba($color-black, 0.6);
 
     &:hover,
     &:focus {
-      border-color: $color-white;
+      border-color: $color-black;
     }
   }
 }
@@ -80,5 +80,5 @@ label {
 // Placeholders
 //---------------------------------------------- 
 ::placeholder {
-  color: $color-grey;
+  color: $color-alpha;
 }

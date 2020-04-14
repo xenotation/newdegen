@@ -5,7 +5,7 @@ permalink: /:year/:month/:day/:title/
 google_analytics: 
 
 name: Thomas Vaeth
-title: The Barber Theme
+title: НОВА ДЕГЕНЕРАЦИЯ
 description: >
   Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
 url: http://barber.samesies.io
@@ -71,9 +71,9 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-sitemap
 compress_html:
-  clippings: all
-  comments: all
-  startings: [html, head, body]
+    clippings: all
+    comments: all
+    startings: [html, head, body]
 exclude:
   - node_modules
   - .DS_Store
