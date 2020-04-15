@@ -7,28 +7,24 @@ google_analytics:
 name: Niki the Low
 title: НОВА ДЕГЕНЕРАЦИЯ
 description: >
-  BМалак блог за изкуство, теория и още нещо.
+  Малак уебзайн за изкуство, теория и още нещо, подържан от Никола Стоянов.
 url: https://newdegeneration.netlify.com/
 twitter_username: avoid1
 default_img: /assets/images/seo.jpg
 social:
   - name: twitter
-    url: https://twitter.com/thomasvaeth
+    url: https://twitter.com/avoid1
   - name: instagram
-    url: https://www.instagram.com/thomas.vaeth/
-  - name: linkedin
-    url: https://www.linkedin.com/in/thomasvaeth/
-  - name: github
-    url: https://github.com/samesies
-  - name: codepen
-    url: https://codepen.io/thomasvaeth/
+    url: https://www.instagram.com/avoid_nd
+  - name: facebook
+    url: https://www.facebook.com/av0id.nd
 
 # Contact settings
 contact_img: /assets/images/placeholder-28.jpg
-formcarry: https://formcarry.com/s/HkIo0nMb7
+formcarry: https://formcarry.com/s/V_62QlIt-Ik-
 
 # Disqus settings
-disqus: test-apkdzgmqhj
+disqus: zasegane
 
 # MailChimp settings
 mailchimp_action: https://samesies.us17.list-manage.com/subscribe/post-json?u=66ddf555dab480e6a8606430b&amp;id=89b3ee034f
@@ -36,9 +32,8 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
-  - name: Thomas Vaeth
-    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
-    url: http://thomasvaeth.com
+  - name: Ники Долния
+    bio: Някво типче с амбиций идващ от долу.
 
 # Pagination settings
 pagination:
