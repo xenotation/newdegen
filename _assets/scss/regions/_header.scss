@@ -33,32 +33,32 @@
   &__title {
     @extend %font-header;
 
-    font-size: 1.23vw;
+    font-size: 1.23vmin;
     color: $color-black;
   }
 
   &__list {
     @extend %no-list-style;
 	
-	font-size: 1.23vw;
-    display: flex;
-    align-items: center;
-    
-    & > * {
-      @extend .header__title;
-    
-      &:not(:last-child) {
-        margin-right: 1em;
-    
-        @media (min-width: $mq-small) {
-          margin-right: 2em;
-        }
-      }
-    
-      a {
-        color: $color-black;
-        
-      }
-    }
+	
+	display: flex;
+	align-items: center;
+	
+	& > * {
+	  @extend .header__title;
+	
+	  &:not(:last-child) {
+	    margin-right: 1em;
+	
+	    @media (min-width: $mq-small) {
+	      margin-right: 2em;
+	    }
+	  }
+	
+	  a {
+	    color: $color-black;
+	    
+	  }
+	}
   }
 }
