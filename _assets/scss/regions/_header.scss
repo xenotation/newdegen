@@ -33,7 +33,7 @@
   &__title {
     @extend %font-header;
 
-    font-size: 1vmin;
+    font-size: 1vw;
     color: $color-black;
   }
 
@@ -48,7 +48,7 @@
 	& > * {
 	  @extend %font-header;
 	
-	font-size: 2vmin;
+	font-size: 2vw;
 
 
 	
