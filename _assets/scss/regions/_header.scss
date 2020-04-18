@@ -48,7 +48,7 @@
 	& > * {
 	  @extend %font-header;
 	
-	font-size: 2vw;
+	font-size: calc(max(2vw, 1.2vh));
 
 
 	
