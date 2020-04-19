@@ -7,7 +7,7 @@ description: "Фундаментален текст, продължаващ тр
 categories: transl
 published: true
 permalink: /geotrauma
-image: /assets/images/geotrauma-and-vocalities.jpg
+image: /assets/images/output-onlinepngtools.png
 tags:
   - Theory
   - Geotrauma
