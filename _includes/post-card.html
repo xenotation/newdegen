@@ -6,7 +6,7 @@
       </figure>
     {% endif %}
     <div>
-      <strong itemprop="name">{{ post.title }}</strong> — <span itemprop="description">{{ post.content | strip_html | truncatewords: 35, "" }}</span>
+      <strong itemprop="name">{{ post.title }}</strong> — <span itemprop="description">{{ post.description | strip_html | truncatewords: 35, "" }}</span>
     </div>
   </a>
 </article>
