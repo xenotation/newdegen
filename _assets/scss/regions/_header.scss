@@ -47,7 +47,7 @@
 	
 	& > * {
 	  @extend %font-header;
-    @include responsive-font(1.8vmax, 1.5vh, 23px, 16px);
+    @include responsive-font(1.8vmax, 1.25vh, 23px, 16px);
     /// font-size: 1.25vmax;
 
 
