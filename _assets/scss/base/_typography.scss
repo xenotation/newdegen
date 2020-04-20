@@ -96,12 +96,12 @@ blockquote {
 
   font-family: $font-post;
   font-weight: 400;
-  font-size: 1em;
+  font-size: 1.25em;
   color: $color-black;
   line-height: 1.4;
 
   @media (min-width: $mq-small) {
-    font-size: 1.5em;
+    font-size: 1em;
   }
 }
 

@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Вернер Херцог <br/> Минесота Декларацията (Уроци на Mрака)"
+title: "Минесота Декларацията (Уроци на Mрака)"
 author: Ники Долния
+prevodot: "Превод: Вернер Херцог -"
 meta: "Представена преди диалог с критика Дейвид Ебърт, от кинорежисьора Вернер Херцог, текста представлява кратка и силна критика на документалното кино."
 description: "Представена преди диалог с критика Дейвид Ебърт, от кинорежисьора Вернер Херцог, текста представлява кратка и силна критика на документалното кино."
-categories: transl
+categories: theory
 published: true
 permalink: /herzog-minessota-declartion
 image: /assets/images/tranls/lessons-of-darkness.jpg
 tags:
-  - Theory
   - Cinema Verte
   - Wernoz Herzog
   - Cinema

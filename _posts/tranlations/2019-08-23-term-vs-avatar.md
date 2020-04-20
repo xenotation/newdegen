@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "Марк Фишър <br/> Терминатор срещу Аватар: Бележки за Акселерационизма"
+title: "Терминатор срещу Аватар: Бележки за Акселерационизма"
 author: Ники Долния
+prevodot: "Превод: Марк Фишър -"
 meta: "Превод на кратък текст на Фишър, обясняващ акселерационистката философия на Ник Ланд."
 description: "Превод на кратък текст на Фишър, обясняващ акселерационистката философия на Ник Ланд."
 published: true
 permalink: /fisher-TvA
 image: /assets/images/fisher_akira.png
+categories: theory
 tags:
-  - Theory
   - Accelarationism
   - Mark Fisher
   - Nick Land
