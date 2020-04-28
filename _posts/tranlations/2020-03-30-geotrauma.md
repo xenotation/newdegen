@@ -15,3 +15,7 @@ tags:
   - Bodkin
   - Nick Land
 ---
+превод Н. Д. 
+
+придрожаващо видео: Изобретението на Реза Негарестани
+<iframe src="https://archive.org/embed/briefgeotrauma" allowfullscreen></iframe>

@@ -15,8 +15,6 @@ tags:
   - Nick Land
 ---
 *преведено от Н. Д.*
-придрожаващо видео: Изобретението на Реза Негарестани
-<iframe src="https://archive.org/embed/briefgeotrauma" allowfullscreen></iframe>
 
 <br>(Представен на Акселерационистки Симпозий, Университет Голдсмит, Лондон; 14/09/2010)
 
