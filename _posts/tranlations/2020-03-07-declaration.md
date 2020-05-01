@@ -8,7 +8,7 @@ description: "Представена преди диалог с критика �
 categories: theory
 published: true
 permalink: /herzog-minessota-declartion
-image: /assets/images/tranls/lessons-of-darkness.jpg
+image: /assets/images/lessons-of-darkness.jpg
 tags:
   - Cinema Verte
   - Wernoz Herzog
