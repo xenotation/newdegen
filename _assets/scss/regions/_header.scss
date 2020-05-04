@@ -23,6 +23,7 @@
   background-color: $color-white;
   border-bottom: $border;
 
+  
   @media (min-width: $mq-small) {
     padding: {
       right: 2em;
@@ -32,31 +33,31 @@
 
   &__title {
     @extend %font-header;
-    @include responsive-font(1vw, 0.5vw, 16px, 16px);
-    /// font-size: 1vw;
+    @include responsive-font(1.25vw, 0.5vw, 16px, 16px);
+    ///font-size: 1vh;
+    
     color: $color-black;
+
   }
 
   &__list {
     @extend %no-list-style;
-	
-	
+     
 
 	display: flex;
-	align-items: center;
-	
+  align-items: center;
+  
 	& > * {
 	  @extend %font-header;
     @include responsive-font(1.8vmax, 1.25vh, 23px, 16px);
-    /// font-size: 1.25vmax;
-
-
+    
+       ///font-size: 1.25vmax;
 	
 	  &:not(:last-child) {
-	    margin-right: 1em;
-	
+	    margin-right: 0.5em;
+
 	    @media (min-width: $mq-small) {
-	      margin-right: 2em;
+      margin-right: 1em;
 	    }
 	  }
 	
@@ -64,6 +65,6 @@
 	    color: $color-black;
 	    
 	  }
-	}
+  }
   }
 }

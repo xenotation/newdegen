@@ -190,8 +190,8 @@
 
     font-size: 1.5em;
     
-    @media (min-width: $mq-small) {
-      font-size: 1.25em;
+    @media (max-width:  420px) {
+      font-size: 1em;
     }
     
     img {
