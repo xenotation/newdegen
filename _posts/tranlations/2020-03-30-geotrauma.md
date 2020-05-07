@@ -18,7 +18,7 @@ tags:
 превод Н.Д. редакция М.Б.
 
 придружаващо видео: Изобретението на Реза Негарестани
-<iframe src="https://archive.org/embed/briefgeotrauma" allowfullscreen></iframe>
+<iframe tittle="The Invention of Reza Negarestani" description="The Work of the Plutonic Committee"  src="https://archive.org/embed/briefgeotrauma" allowfullscreen></iframe>
 
 <br><br/>
 <br><br/>
