@@ -20,7 +20,7 @@ tags:
 
 Оригинален текст взет от четене в [Urbanomic PlaguePod 41](https://soundcloud.com/urbanomic/plaguepod-bonus-coronademonology), текстът представлява преработка на главата Selenomania от Omnicide: Mania, Fatality and Future-Delirium на същия автор. Превод Н.Д. Редакция М.М.
 
-<iframe width="100%" height="100" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/811913284&color=%23a4a49c&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+<iframe width="100%" height="240" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/811913284&color=%23a4a49c&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 Ако предизвикателството тази вечер е да си представим вируса като демон, тогава можем да разработим единадесет бързи принципа на демоничните същества, които да обвържат тези вектори на мислене.
 
