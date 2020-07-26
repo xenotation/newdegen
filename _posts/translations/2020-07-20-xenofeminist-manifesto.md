@@ -131,7 +131,7 @@ published: true
 
 ---
 Ксеномефинистки Манифест е превод на английската [Xenofeminist Manifesto](https://laboriacuboniks.net/manifesto/xenofeminism-a-politics-for-alienation/), публикувано от Verso (2018) с лизенз [(CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.ast) [Laboria Cuboniks](https://laboriacuboniks.net/)
-Изображенията са взети и манипулирани от гореспомената книга, със съотвеният лиценз както и от [Wikicommons]() с лиценз 
+Изображенията са взети и манипулирани от гореспомената книга, със съотвеният лиценз както и от [Wikicommons](https://commons.wikimedia.org/wiki/File:Viola_and_the_Countess_-_Frederick_Richard_Pickersgill.jpg) с лиценз 
 Това произведение е лицензирано с <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Признание 4.0 Международен Лиценз</a>.
 ---
 
