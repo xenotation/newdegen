@@ -23,7 +23,7 @@ published: false
 
 >__Посветена на помогналите с уроците по световъртеж__
 
-><a href="assets\pdf\mnnf_web.pdf" target="_blank">Линк към книжката(зарежда бавно бъдете търпеливи)</a>
+><a href="https://ia601407.us.archive.org/22/items/mnnf_web/mnnf_web.pdf" target="_blank">Линк към книжката(зарежда бавно бъдете търпеливи)</a>
 <iframe width="560" height="50px" src="https://www.youtube.com/embed/videoseries?list=PLZco1drdJsxKR9a8Hr8wOo9gek-8pxhd_" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 >Саундтрак
 
