@@ -15,7 +15,7 @@ tags:
   - Don DeLillo
   - Night Life
   - Photography
-published: false
+published: true
 ---
 >Кадри: Зима 2017
 
