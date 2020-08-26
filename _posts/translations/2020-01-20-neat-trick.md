@@ -6,12 +6,12 @@ prevodot: Тед Казински
 meta: "Основополагащ анти-левичарски текст на Теодор Казински, доста важен днес като вектор за пост-NRx тайфата."
 description: "Основополагащ анти-левичарски текст на Теодор Казински, доста важен днес като вектор за пост-NRx тайфата."
 categories: Theory
-published: false
+published: true
 permalink: /neatest-trick
 image: /assets/images/uncleted.jpeg
 tags: 
   - Theory
-  - Technophobia
+  - Technology
   - Idpol
 ---
 *превод Н. Д. с помощ от М. М.*

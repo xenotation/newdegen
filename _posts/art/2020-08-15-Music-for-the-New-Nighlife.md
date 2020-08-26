@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /music-for-the-new-nighlife
+permalink: /music-for-a-new-nightlife
 title: "Музика за Нов Нощен Живот"
 author: Ники Долния
 prevodot: Никола Стоянов
@@ -59,33 +59,33 @@ published: true
 <br>
 ### Саундтрак
 
-<a href="assets\pdf\mnnf.pdf#page=4" target="_blank">p.4   Underground Resistance - Install “Ho Chi Minh” Chip</a>
+<a href="https://ia601407.us.archive.org/22/items/mnnf_web/mnnf_web.pdf#page=3" target="_blank">p.4   Underground Resistance - Install “Ho Chi Minh” Chip</a>
 
-<a href="assets\pdf\mnnf.pdf#page=6" target="_blank">p.6   Clock DVA - NYC Overload</a>
+<a href="https://ia601407.us.archive.org/22/items/mnnf_web/mnnf_web.pdf#page=4" target="_blank">p.6   Clock DVA - NYC Overload</a>
 
-<a href="assets\pdf\mnnf.pdf#page=10" target="_blank">p.10 Andy Stott - Violence</a>
+<a href="https://ia601407.us.archive.org/22/items/mnnf_web/mnnf_web.pdf#page=6" target="_blank">p.10 Andy Stott - Violence</a>
 
-<a href="assets\pdf\mnnf.pdf#page=16" target="_blank">p.16 Nocow - Samaya Dolgaya Noch</a>
+<a href="https://ia601407.us.archive.org/22/items/mnnf_web/mnnf_web.pdf#page=9" target="_blank">p.16 Nocow - Samaya Dolgaya Noch</a>
 
-<a href="assets\pdf\mnnf.pdf#page=18" target="_blank">p.18 Burial - Kindered</a>
+<a href="https://ia601407.us.archive.org/22/items/mnnf_web/mnnf_web.pdf#page=10" target="_blank">p.18 Burial - Kindered</a>
 
-<a href="assets\pdf\mnnf.pdf#page=20" target="_blank">p.20 Lotic - Hunted</a>
+<a href="https://ia601407.us.archive.org/22/items/mnnf_web/mnnf_web.pdf#page=11" target="_blank">p.20 Lotic - Hunted</a>
 
-<a href="assets\pdf\mnnf.pdf#page=23" target="_blank">p.23 Gesaffelstein - Destinations</a>
+<a href="https://ia601407.us.archive.org/22/items/mnnf_web/mnnf_web.pdf#page=12" target="_blank">p.23 Gesaffelstein - Destinations</a>
 
-<a href="assets\pdf\mnnf.pdf#page=28" target="_blank">p.28 Voke Starman - Sweet Dreams r Made of U</a>
+<a href="https://ia601407.us.archive.org/22/items/mnnf_web/mnnf_web.pdf#page=15" target="_blank">p.28 Voke Starman - Sweet Dreams r Made of U</a>
 
-<a href="assets\pdf\mnnf.pdf#page=34" target="_blank">p.34 Refidge Cru - Darkrider</a>
+<a href="https://ia601407.us.archive.org/22/items/mnnf_web/mnnf_web.pdf#page=18" target="_blank">p.34 Refidge Cru - Darkrider</a>
 
-<a href="assets\pdf\mnnf.pdf#page=36" target="_blank">p.36 Burial Temple - Sleeper</a>
+<a href="https://ia601407.us.archive.org/22/items/mnnf_web/mnnf_web.pdf#page=19" target="_blank">p.36 Burial Temple - Sleeper</a>
 
-<a href="assets\pdf\mnnf.pdf#page=43" target="_blank">p.43 Coucou Chloe - Gecko</a>
+<a href="https://ia601407.us.archive.org/22/items/mnnf_web/mnnf_web.pdf#page=22" target="_blank">p.43 Coucou Chloe - Gecko</a>
 
-<a href="assets\pdf\mnnf.pdf#page=44" target="_blank">p.44 Burial - Archangel</a>
+<a href="https://ia601407.us.archive.org/22/items/mnnf_web/mnnf_web.pdf#page=23" target="_blank">p.44 Burial - Archangel</a>
 
-<a href="assets\pdf\mnnf.pdf#page=46" target="_blank">p.46 Christopher De Babalon -What You Call A Life </a>
+<a href="https://ia601407.us.archive.org/22/items/mnnf_web/mnnf_web.pdf#page=24" target="_blank">p.46 Christopher De Babalon -What You Call A Life </a>
 
-<a href="assets\pdf\mnnf.pdf#page=50" target="_blank">p.50 Nasekomix - Грее Hощ</a>
+<a href="https://ia601407.us.archive.org/22/items/mnnf_web/mnnf_web.pdf#page=25" target="_blank">p.48 Nasekomix - Грее Hощ</a>
 <br>
 ### Текстова Банка
 
