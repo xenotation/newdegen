@@ -19,6 +19,7 @@ tags:
   - Translation
   - Accelarationism
 published: true
+crosspost_to_medium: true
 ---
 *преведено от Н. Д. редакция М.М.* [оригиналът](http://www.sterneck.net/cyber/plant-land-cyber/) може да се намери в [#Accelerate,
 The Accelerationist Reader](https://www.urbanomic.com/book/accelerate/), Urbanomic
