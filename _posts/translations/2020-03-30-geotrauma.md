@@ -14,6 +14,7 @@ tags:
   - Negarestani
   - Bodkin
   - Nick Land
+  - Translation
 ---
 превод Н.Д. редакция М.Б.
 

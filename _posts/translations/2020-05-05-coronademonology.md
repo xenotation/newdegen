@@ -16,6 +16,8 @@ tags:
   - Demonology
   - Omnicide
   - Folklore
+  - occult
+  - Translation
 ---
 
 Оригинален текст взет от четене в [Urbanomic PlaguePod 41](https://soundcloud.com/urbanomic/plaguepod-bonus-coronademonology), текстът представлява преработка на главата Selenomania от Omnicide: Mania, Fatality and Future-Delirium на същия автор. Превод Н.Д. Редакция М.М.

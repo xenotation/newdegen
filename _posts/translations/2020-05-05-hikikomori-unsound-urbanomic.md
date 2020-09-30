@@ -23,6 +23,7 @@ tags:
   - post-club
   - decostructed-club
   - Drugs
+  - Translation
 ---
 оригинален текст взет от [AUDINT—Unsound:Undead](https://www.urbanomic.com/book/unsoundundead/), издаденa от Urbanomic, Apr 2019
 <br>

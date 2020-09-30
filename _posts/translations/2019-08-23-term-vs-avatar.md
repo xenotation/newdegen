@@ -13,6 +13,7 @@ tags:
   - Accelarationism
   - Mark Fisher
   - Nick Land
+  - Translation
 ---
 *преведено от Н. Д.*
 
