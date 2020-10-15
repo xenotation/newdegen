@@ -9,12 +9,7 @@ description: "Фото-зин вдъхновен от (липсващият) в�
 image: /assets/images/music/apteka.jpg
 categories: art
 tags:
-  - Hauntology
-  - Music
-  - Mark Fisher
-  - Don DeLillo
-  - Night Life
-  - Photography
+  - Art
 published: true
 ---
 >Кадри: Зима 2017

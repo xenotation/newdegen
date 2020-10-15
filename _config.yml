@@ -76,5 +76,5 @@ exclude:
   - Gemfile.lock
   - gulpfile.js
   - package.json
-  - README.md
+  - README.mdgem
   - vendor
