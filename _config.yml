@@ -7,13 +7,11 @@ google_analytics: UA-30039942-2
 name: Niki the Low
 title: НОВА ДЕГЕНЕРАЦИЯ
 description: >
-  Малък уебзайн за изкуство, философия, критическа теория и окултура, подържан от Никола Стоянов.
+  Малък уебзайн за изкуство, философия, критическа теория и окултура.
 url: https://newdegeneration.netlify.app
-twitter_username: avoid1
+
 default_img: /assets/images/seo.png
 social:
-  - name: twitter
-    url: https://twitter.com/avoid1
   - name: instagram
     url: https://www.instagram.com/avoid_nd
   - name: facebook
