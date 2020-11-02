@@ -5,8 +5,8 @@ permalink: /objects-all-the-way-down
 title: "Objects all the way down"
 author: Ники Долния
 prevodot: Никола Стоянов
-meta: "In this paper we will be focusing on both Edmund Husserl's and Martin Heidegger's monumental work on Ontology, and through it find a way into both Heidegger's Four-fold and the field of object-oriented ontology."
-description: "In this paper we will be focusing on both Edmund Husserl's and Martin Heidegger's monumental work on Ontology, and through it find a way into both Heidegger's Four-fold and the field of object-oriented ontology."
+meta: "Едно не чак толкова кратко есе обсъждащо идеите на Греъм Харман от книгата му "Четвъртития Предмет" и връзката им с труда на Едмънд Хъсерал и Мартин Хайдегер. Есето е едно добро начално въведение в обектно ориентираната онтология представена от Харман и базирана в късния труд на Хайдегер. Писано около 2016 година."
+description: "Едно не чак толкова кратко есе обсъждащо идеите на Греъм Харман от книгата му "Четвъртития Предмет" и връзката им с труда на Едмънд Хъсерал и Мартин Хайдегер. Есето е едно добро начално въведение в обектно ориентираната онтология представена от Харман и базирана в късния труд на Хайдегер. Писано около 2016 година."
 image: /assets/images/objects/spiral.png
 
 categories: writing
