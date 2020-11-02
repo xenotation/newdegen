@@ -77,7 +77,7 @@ To return to Husserl, like Brentano he holds that the mind is the only thing tha
 
 # 3. A polypsychismic ontology
 
-The finitude that is at the base of all object relations then shows that humans have no privileged ontological status to rocks, birds or planets. This might seem naive as only a fool would deny our superior cognitive skills to an apples, but what is meant is that, the gap stands between an object and its relations, not us and objects. This reversal of the Kantian revolution, which was falsely named a Copernican one, will then consist in the moving of man away from the center of the universe [^45] Here is where our occasionalism lies, to reverse Kant, and open up a way into a democratic model of objects. As we have said this occasionalsim is deployed without relying on onto-theological devices, not even on Dasein. This has been shown through the fact that objects are not exhausted by either their relations (an apple will not stop being on a table even if some of the tables qualities always shift slightly) or us as privileged beings and thus what we are left with is an ontological polypsychism, where object cannot be undermined by empirical sciences or overmined by structural theories so prevalent today [^46][^47].
+The finitude that is at the base of all object relations then shows that humans have no privileged ontological status to rocks, birds or planets. This might seem naive as only a fool would deny our superior cognitive skills to an apples, but what is meant is that, the gap stands between an object and its relations, not us and objects. This reversal of the Kantian revolution, which was falsely named a Copernican one, will then consist in the moving of man away from the center of the universe [^45] Here is where our occasionalism lies, to reverse Kant, and open up a way into a democratic model of objects. As we have said this occasionalsim is deployed without relying on onto-theological devices, not even on Dasein. This has been shown through the fact that objects are not exhausted by either their relations (an apple will not stop being on a table even if some of the tables qualities always shift slightly) or us as privileged beings and thus what we are left with is an ontological polypsychism, where object cannot be undermined by empirical sciences or overmined by structural theories so prevalent today [^46] [^47].
 
 # 4. Conclusion
 
@@ -157,7 +157,7 @@ In this essay we have shown how Husserl's conception of the finitude and failure
 
 [^39]: Graham Harman, On Vicarious Causality, p. 172
 
-[40]: Martin Heidegger,  *Being And Time,* p. 82
+[^40]: Martin Heidegger,  *Being And Time,* p. 82
 
 [^41]: Ibid., p. 68
 
