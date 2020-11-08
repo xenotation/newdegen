@@ -47,7 +47,7 @@
 
   &__title {
     @extend %font-header;
-    @include responsive-font(1.25vw, 0.25vw, 16px, 16px);
+    @include responsive-font(1.25vw, 0.25vw, 12px, 12px);
     ///font-size: 1vh;
     
     color: $color-black;
@@ -63,7 +63,7 @@
   
 	& > * {
 	  @extend %font-header;
-    @include responsive-font(1.8vmax, 1.35vh, 23px, 16px);
+    @include responsive-font(1.8vmax, 1.35vh, 23px, 12px);
     
        ///font-size: 1.25vmax;
 	
