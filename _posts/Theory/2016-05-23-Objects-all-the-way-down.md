@@ -20,7 +20,7 @@ tags:
 published: true
 ---
 
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fbrentvollebregt%2Fhit-counter)
 
 >*Objects exist as autonomous units, but they also exist in conjunction with their qualities, accidents, relations, and moments without being reducible to these. To show how these terms can convert into one another is the alchemical mission of the object-oriented thinker.*
 >— **Prince of Networks** by Graham Harman [^1]
