@@ -20,12 +20,12 @@ tags:
 published: true
 ---
 
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg" alt="Hits">
-
 >*Objects exist as autonomous units, but they also exist in conjunction with their qualities, accidents, relations, and moments without being reducible to these. To show how these terms can convert into one another is the alchemical mission of the object-oriented thinker.*
 >— **Prince of Networks** by Graham Harman [^1]
 
 ## 0. Abstract
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fnewdegeneration.netlify.app%2Fobjects-all-the-way-down)
 
 In this paper we will be focusing on both Edmund Husserl's and Martin Heidegger's monumental work on Ontology, and through it find a way into both Heidegger's Four-fold (Das Geviert) and the field of object-oriented ontology. We will find our way into this topic through perception, the building block of the phenomenological project. In turn we will show how both Husserl's and Heidegger's theory can be pushed into a flat ontology and extend into the realm not only of *human being*, but of all phenomenon as such. Our guide in this essay will be the reworked four-fold as presented in Graham Harman's work in “The Quadruple Object” [^2]. Our main goal is to show how Husserl's work on finitude has resonated through the field of post-Kantian philosophy to the present day theories of Speculative Realism [^3] and thus open a way into both Husserl and the late Heidegger's work on objects and ontology.
 <img src="\assets\images\objects\fourfold_1.png" alt="Греъм Харман"> [^4]
