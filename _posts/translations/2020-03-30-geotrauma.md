@@ -15,6 +15,7 @@ tags:
   - Bodkin
   - Nick Land
   - Translation
+  - Hyperstition
 ---
 превод Н.Д. редакция М.Б.
 
