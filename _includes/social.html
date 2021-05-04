@@ -2,6 +2,18 @@
   <ul class="footer__social">
     {% for social in site.social %}
       <li><a href="{{ social['url'] }}" target="_blank"><i class="fa fa-{{ social['name'] }}"></i></a></li>
+
     {% endfor %}
+
+    <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+    <script>
+      kofiWidgetOverlay.draw('newdegeneration', {
+        'type': 'floating-chat',
+        'floating-chat.donateButton.text': 'Support Us',
+        'floating-chat.donateButton.background-color': '#323842',
+        'floating-chat.donateButton.text-color': '#fff'
+      });
+    </script>
+
   </ul>
 {% endif %}
