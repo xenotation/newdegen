@@ -6,7 +6,7 @@ prevodot: Тед Казински
 meta: "Основополагащ анти-левичарски текст на Теодор Казински, доста важен днес като вектор за пост-NRx тайфата."
 description: "Основополагащ анти-левичарски текст на Теодор Казински, доста важен днес като вектор за пост-NRx тайфата."
 categories: Theory
-published: true
+published: false
 permalink: /neatest-trick
 image: /assets/images/uncleted.jpeg
 tags: 

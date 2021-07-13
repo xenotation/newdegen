@@ -7,7 +7,7 @@ meta: "Превод на кратък текст на Фишър, обясняв
 description: "Превод на кратък текст на Фишър, обясняващ акселерационистката философия на Ник Ланд."
 published: true
 permalink: /fisher-TvA
-image: /assets/images/fisher_akira.png
+image: /assets/images/fisher_akira.jpg
 categories: theory
 tags:
   - Accelarationism
