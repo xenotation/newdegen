@@ -136,7 +136,7 @@ published: true
 
 Ние гледаме хоризонта на един нов втори неолит, фаза на преоткриване на технологиите на миналия период[^40]. Хито Щейрл отбелязва как по-голямата част от терминологичния апарат на дейта науките и невронните мрежи са препратки към технологии на неолита: data farming и harvesting, mining и extraction; всички те сочат към агрикултурна и металургическа дейност[^41].Неолиберализмът колабира в често срещаната и всеобхващата депресия, генерална несигурност в параноя, посредством константно облъчване (инфо-блиц). Нискочестотно чувство на непрестанна травма, откриваща субекта като труп преди дисекция за пенетрация от всевъзможни машинации. Шизото става перфектната парафилетична обсесия за последния човек на Ницше[^42]. В навечерието на тоталното свлачище, потъващо в посока на морето на латентното пространство, конспиративната мисъл, сега стандарт, а не аномалия завършва своя захват. Перфектната параноя, клоняща в бъдещи поколения на чиста апофения, ни изплюва на терминалния плаж на изкуството, колабирайки каквото е останало от субекта в чиста изкустност. Точно на ръба на това преди наричаме креативност. Ерата на конкретиката залязва, близкото минало ни тласка напред към новите времена на абсолютна арбитрарност, а чадата мелези на близкото минало тепърва започват да се разбуждат и да излизат от морето на колективното неосъзнато, <abbr title=" Тюринг ченгетата на Антропол по-късно пуснаха изявление, че изкуствената смърт (временно освобождаване от служба) най-вероятно е причинена от аксела в комбинация с неизвестен вид синативи, открити в дома на жертвата. Разследването продължава.">разумът дреме кошмари</abbr>. И сега ти катерачо, стигнал терминална височина, как ще продължиш изкачването си, ако не се качиш на собствената си глава?
 
-Крайни записки:
+## Крайни записки:
 
 [^2]: Arnold D. Richards. The Jewish World of Sigmund Freud. pp. 169-173.
 
@@ -176,7 +176,7 @@ published: true
 
 [^30]: Jonah Peretti. Capitalism and Schizophrenia Contemporary Visual Culture and the Acceleration of Identity Formation/Dissolution. Negotiations Journal Premier, Issue Winter. 1996.
 
-[^31]: Alexander Mordvintsev, Christopher Olah, Mike Tyka. Inceptionism: Going Deeper into Neural Networks. Wednesday, June 17, 2015. https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural
+[^31]: Alexander Mordvintsev, Christopher Olah, Mike Tyka. [Inceptionism: Going Deeper into Neural Networks](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural). Wednesday, June 17, 2015.
 
 [^32]: [Hito Steyerl. A Sea of Data: Pattern Recognition and Corporate Animism (Forked Version) 2018](https://doi.org/10.25969/mediarep/12348). p. 4.
 
@@ -184,13 +184,13 @@ published: true
 
 [^35]: Walter Benjamin. A Short History of Photography. trans. Stanley Mitchell.1974.
 
-[^36]: Antonin Artaud. To Have Done With the Judgment of God. Artraud reads from his play. Broadcast: KPFA. 15 Oct., 1968. BB2075 Pacifica Radio Archives.
+[^36]: Antonin Artaud. [To Have Done With the Judgment of God.](https://surrealism-plays.com/Artaud.html) Artraud reads from his play. Broadcast: KPFA. 15 Oct., 1968. BB2075 Pacifica Radio Archives.
 
 [^38]: [Ник Ланд и Сади Плант. Киберпозитивен (1992). превод Никола Стоянов.](https://newdegeneration.netlify.app/cyberpostive-nick-land).
 
 [^39]: Georges Bataille. The Accursed Share. Zone Book. ISBN: 978-0-942299-11-3. 2007. pp. 33-35.
 
-[^40]: Виж: The coils of the serpent. Превод Никола Стоянов. 23 Aug 2021. Нова Дегенерация.
+[^40]: Виж: [The coils of the serpent.](https://newdegeneration.netlify.app/the-coils-of-the-serpent) Превод Никола Стоянов. 23 Aug 2021. Нова Дегенерация.
 
 [^41]: [Hito Steyerl A Sea of Data: Pattern Recognition and Corporate Animism (Forked Version). 2018.](https://doi.org/10.25969/mediarep/12348) p.15-16.
 
