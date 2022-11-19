@@ -121,7 +121,7 @@ abbr[title]:focus::after {
 }
 abbr[title] {
   position: relative;
-  
+
   /* ensure consistent styling across browsers */
   text-decoration: underline dotted; 
 }
@@ -129,14 +129,14 @@ abbr[title] {
 abbr[title]:hover::after,
 abbr[title]:focus::after {
   content: attr(title);
-  
+
   /* position tooltip like the native one */
   position: absolute;
   left: 0;
   bottom: -30px;
   width: auto;
   white-space: nowrap;
-  
+
   /* style tooltip */
   background-color: #1e1e1e;
   color: #fff;
@@ -145,8 +145,6 @@ abbr[title]:focus::after {
   font-size: 14px;
   padding: 3px 5px;
 }
-
-
 /**
  * Prevent the duplicate application of `bolder` by the next rule in Safari 6.
  */
