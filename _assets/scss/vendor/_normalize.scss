@@ -118,7 +118,7 @@ a {
    position: relative;
    
    /* ensure consistent styling across browsers */
- 
+   text-decoration: underline dotted; 
  }
  
  abbr[title]:hover::after,
