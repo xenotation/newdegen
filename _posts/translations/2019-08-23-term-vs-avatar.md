@@ -10,9 +10,9 @@ permalink: /fisher-TvA
 image: /assets/images/fisher_akira.jpg
 categories: theory
 tags:
-  - Accelarationism
-  - Mark Fisher
-  - Nick Land
+  - Аселерационизъм
+  - Марк Фишър
+  - Ник Ланд
   - Translation
 ---
 *преведено от Н. Д.*

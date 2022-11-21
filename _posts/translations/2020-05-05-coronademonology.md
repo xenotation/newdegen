@@ -10,16 +10,14 @@ published: true
 permalink: /corona-demonology
 image: /assets/images/Corona/colortemplate.jpg
 tags:
-  - Pandemic
-  - Coronavirus
-  - Selenomania
-  - Demonology
+  - Селеномания
+  - Демонология
   - Omnicide
-  - Folklore
-  - occult
+  - Фолклор
+  - Окултура
   - Translation
-  - Lovecraft
-  - Hyperstition
+  - Лъвкрафт
+  - Хиперверия
 ---
 
 Оригинален текст взет от четене в [Urbanomic PlaguePod 41](https://soundcloud.com/urbanomic/plaguepod-bonus-coronademonology), текстът представлява преработка на главата Selenomania от Omnicide: Mania, Fatality and Future-Delirium на същия автор. Превод Н.Д. Редакция М.М.

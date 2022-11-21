@@ -10,9 +10,9 @@ published: true
 permalink: /neatest-trick
 image: /assets/images/uncleted.jpeg
 tags: 
-  - Theory
-  - Technology
-  - Idpol
+  - анти-цив
+  - Акселерационизъм
+  - Translations
 ---
 *превод Н. Д. с помощ от М. М.*
 

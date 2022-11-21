@@ -11,11 +11,10 @@ image: /assets/images/migrane_map.jpg
 
 categories: theory
 tags:
-  - lovecraft
-  - hyperstition
-  - chaos magick
-  - necronomicon
-  - theory-fiction
+  - Ктулху
+  - Хиперверия
+  - Лъвкрафт
+  - Tranlations
 
 published: true
 ---

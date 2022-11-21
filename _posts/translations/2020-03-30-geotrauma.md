@@ -10,12 +10,12 @@ published: true
 permalink: /geotrauma
 image: /assets/images/plutonics_II.jpg
 tags:
-  - Geotrauma
-  - Negarestani
-  - Bodkin
-  - Nick Land
+  - Геотравма
+  - Негарестани
+  - Бодкин
+  - Ник Ланд
   - Translation
-  - Hyperstition
+  - Хиперверия
 ---
 превод Н.Д. редакция М.Б.
 
