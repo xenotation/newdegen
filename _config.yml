@@ -12,6 +12,10 @@ url: https://newdegeneration.netlify.app
 
 default_img: /assets/images/seo.png
 social:
+  - name: twitter
+    url: https://twitter.com/new_degen
+  - name: youtube
+    url: https://www.youtube.com/@newdegeneration
   - name: instagram
     url: https://www.instagram.com/avoid.nd/
   - name: facebook
