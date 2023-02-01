@@ -8,9 +8,7 @@ GEM
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
-    eventmachine (1.2.7)
     eventmachine (1.2.7-x64-mingw32)
-    ffi (1.15.5)
     ffi (1.15.5-x64-mingw32)
     forwardable-extended (2.6.0)
     http_parser.rb (0.8.0)
@@ -31,9 +29,6 @@ GEM
       rouge (~> 3.0)
       safe_yaml (~> 1.0)
       terminal-table (~> 2.0)
-    jekyll-hyphenate_filter (0.0.2)
-      nokogiri (~> 1.6)
-      text-hyphen (~> 1.4)
     jekyll-paginate-v2 (3.0.0)
       jekyll (>= 3.0, < 5.0)
     jekyll-sass-converter (2.1.0)
@@ -51,11 +46,6 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
-    mini_portile2 (2.4.0)
-    nokogiri (1.10.10)
-      mini_portile2 (~> 2.4.0)
-    nokogiri (1.10.10-x64-mingw32)
-      mini_portile2 (~> 2.4.0)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (4.0.7)
@@ -65,13 +55,10 @@ GEM
     rexml (3.2.5)
     rouge (3.30.0)
     safe_yaml (1.0.5)
-    sassc (2.4.0)
-      ffi (~> 1.9)
     sassc (2.4.0-x64-mingw32)
       ffi (~> 1.9)
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
-    text-hyphen (1.4.1)
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
     tzinfo-data (1.2022.7)
@@ -85,12 +72,11 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
-  jekyll-hyphenate_filter
   jekyll-paginate-v2
   jekyll-sitemap
   kramdown-parser-gfm
   tzinfo-data
-  wdm (~> 0.1.0)
+  wdm
 
 BUNDLED WITH
    2.2.23
