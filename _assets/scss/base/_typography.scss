@@ -7,6 +7,12 @@ body {
   color: $color-black;
   background-color: $color-white;
 }
+.hyphenate {
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+}
 
 //----------------------------------------------
 // Fluid body sizing
