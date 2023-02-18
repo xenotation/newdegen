@@ -1,6 +1,5 @@
 # Site/SEO settings
 email: av0id.biz@gmail.com
-baseurl: ""
 permalink: /:year/:title/
 google_analytics: UA-30039942-2
 
@@ -8,7 +7,7 @@ name: Niki the Low
 title: НОВА ДЕГЕНЕРАЦИЯ
 description: >
   Малък уебзайн за изкуство, философия, критическа теория и окултура.
-url: https://newdegeneration.xyz/
+url: https://newdegeneration.xyz
 
 default_img: /assets/images/seo.png
 social:
@@ -29,8 +28,8 @@ formcarry: https://formcarry.com/s/V_62QlIt-Ik-
 disqus: zasegane
 
 # MailChimp settings
-mailchimp_action: https://samesies.us17.list-manage.com/subscribe/post-json?u=66ddf555dab480e6a8606430b&amp;id=89b3ee034f
-mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
+mailchimp_action: 
+mailchimp_input: 
 
 # Author settings
 author:
