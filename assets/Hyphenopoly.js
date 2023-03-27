@@ -168,7 +168,7 @@
                         ["leftminPerLang", 0],
                         ["minWordLength", 6],
                         ["mixedCase", true],
-                        ["orphanControl", 1],
+                        ["orphanControl", 2],
                         ["rightmin", 0],
                         ["rightminPerLang", 0]
                     ]));

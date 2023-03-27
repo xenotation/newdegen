@@ -7,7 +7,7 @@
 <script src="{{ site.baseurl }}/assets/Hyphenopoly.js"></script>
 <script>
   Hyphenopoly.config({
-    require: "bg",
+    require: "bg": "{{ site.baseurl }}/assets/bg.wasm",
     hyphen: "soft"
   });
   Hyphenopoly.doHyphenation();

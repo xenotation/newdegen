@@ -186,11 +186,11 @@ published: true
 
 [^36]: Antonin Artaud. [To Have Done With the Judgment of God.](https://surrealism-plays.com/Artaud.html) Artraud reads from his play. Broadcast: KPFA. 15 Oct., 1968. BB2075 Pacifica Radio Archives.
 
-[^38]: [Ник Ланд и Сади Плант. Киберпозитивен (1992). превод Никола Стоянов.](https://newdegeneration.netlify.app/cyberpostive-nick-land).
+[^38]: [Ник Ланд и Сади Плант. Киберпозитивен (1992). превод Никола Стоянов.](https://newdegeneration.xyz/cyberpostive-nick-land).
 
 [^39]: Georges Bataille. The Accursed Share. Zone Book. ISBN: 978-0-942299-11-3. 2007. pp. 33-35.
 
-[^40]: Виж: [The coils of the serpent.](https://newdegeneration.netlify.app/the-coils-of-the-serpent) Превод Никола Стоянов. 23 Aug 2021. Нова Дегенерация.
+[^40]: Виж: [The coils of the serpent.](https://newdegeneration.xyz/the-coils-of-the-serpent) Превод Никола Стоянов. 23 Aug 2021. Нова Дегенерация.
 
 [^41]: [Hito Steyerl A Sea of Data: Pattern Recognition and Corporate Animism (Forked Version). 2018.](https://doi.org/10.25969/mediarep/12348) p.15-16.
 

@@ -1,6 +1,6 @@
 # Site/SEO settings
 email: av0id.biz@gmail.com
-permalink: /:year/:title/
+permalink: /:title/
 google_analytics: UA-30039942-2
 
 name: Niki the Low
@@ -11,13 +11,13 @@ url: https://newdegeneration.xyz
 
 default_img: /assets/images/seo.png
 social:
-  - name: twitter
+  - name: "twitter"
     url: https://twitter.com/new_degen
-  - name: youtube
+  - name: "youtube"
     url: https://www.youtube.com/@newdegeneration
-  - name: instagram
+  - name: "instagram"
     url: https://www.instagram.com/avoid.nd/
-  - name: facebook
+  - name: "facebook"
     url: https://www.facebook.com/newdegen
 
 # Contact settings
