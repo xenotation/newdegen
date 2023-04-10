@@ -66,6 +66,10 @@ markdown: kramdown
 plugins:
   - jekyll-paginate-v2
   - jekyll-sitemap
+  
+sitemap:
+  content_type: "application/xml"
+
 
 compress_html:
     clippings: all
@@ -82,3 +86,5 @@ exclude:
   - vendor
 include:
   - _redirects
+
+
