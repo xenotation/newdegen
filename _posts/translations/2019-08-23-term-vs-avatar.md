@@ -6,7 +6,7 @@ prevodot: "Марк Фишър"
 meta: "Превод на кратък текст на Фишър, обясняващ акселерационистката философия на Ник Ланд."
 description: "Превод на кратък текст на Фишър, обясняващ акселерационистката философия на Ник Ланд."
 published: true
-permalink: /fisher-TvA
+permalink: /term-vs-avatar
 image: /assets/images/fisher_akira.jpg
 categories: theory
 tags:
