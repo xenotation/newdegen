@@ -11,11 +11,13 @@ permalink: /geotrauma
 image: /assets/images/plutonics_II.jpg
 tags:
   - Геотравма
-  - Негарестани
+  - Реза Негарестани
   - Бодкин
   - Ник Ланд
   - Translation
   - Хиперверия
+  - Геотравматика
+  - Геофилософия
 ---
 превод Н.Д. редакция М.Б.
 

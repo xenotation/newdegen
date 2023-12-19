@@ -10,9 +10,10 @@ description: ""
 image: 
 
 categories: theory
-  - 
-  - 
-  - 
+  - фетишизъм
+  - Жорж Батай
+  - Сюриализъм
+  - Психоанализа
 
 published: false
 ---
