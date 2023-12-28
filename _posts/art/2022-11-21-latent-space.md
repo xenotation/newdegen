@@ -186,7 +186,7 @@ published: true
 
 [^36]: Antonin Artaud. [To Have Done With the Judgment of God.](https://surrealism-plays.com/Artaud.html) Artraud reads from his play. Broadcast: KPFA. 15 Oct., 1968. BB2075 Pacifica Radio Archives.
 
-[^38]: [Ник Ланд и Сади Плант. Киберпозитивен (1992). превод Никола Стоянов.](https://newdegeneration.xyz/cyberpostive-nick-land).
+[^38]: [Ник Ланд и Сади Плант. Киберпозитивен (1992). превод Никола Стоянов.](https://blog.newdegeneration.xyz/cyberpostive-nick-land).
 
 [^39]: Georges Bataille. The Accursed Share. Zone Book. ISBN: 978-0-942299-11-3. 2007. pp. 33-35.
 
