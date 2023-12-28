@@ -7,7 +7,7 @@ name: Niki the Low
 title: НОВА ДЕГЕНЕРАЦИЯ
 description: >
   Малък уебзайн за изкуство, философия, критическа теория и окултура.
-url: https://newdegeneration.xyz
+url: https://blog.newdegeneration.xyz
 
 default_img: /assets/images/seo.png
 social:
@@ -22,7 +22,7 @@ social:
 
 # Contact settings
 contact_img: /assets/images/placeholder-28.jpg
-formcarry: https://formcarry.com/s/V_62QlIt-Ik-
+# formcarry: https://formcarry.com/s/V_62QlIt-Ik-
 
 # Disqus settings
 disqus: zasegane
