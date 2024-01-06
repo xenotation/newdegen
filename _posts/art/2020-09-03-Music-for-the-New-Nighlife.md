@@ -10,7 +10,7 @@ image: /assets/images/music/apteka.jpg
 categories: art
 tags:
   - Art
-published: true
+published: false
 ---
 >Кадри: Зима 2017
 

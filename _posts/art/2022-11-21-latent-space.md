@@ -9,7 +9,7 @@ meta: "Теоретична фикциям разследващата бъдещ
 description: "Теоретична фикциям разследващата бъдещето на изкуствения интелект и синтетичната култура, през историята на параноидната шизофрения въплътена във образа на влиятелната машина, и последствията на преминаването и от клиничната в културната сфера. Текста беше представен като част от изложбата Латентно Пространство (2022), провела се в Галерия ДОЗА, София"
 image: /assets/images/XX11(0)_0.png
 
-categories: art, events, writing
+categories: events, writing
 tags:
   - Виктор Таус
   - Шизоанализа
@@ -190,7 +190,7 @@ published: true
 
 [^39]: Georges Bataille. The Accursed Share. Zone Book. ISBN: 978-0-942299-11-3. 2007. pp. 33-35.
 
-[^40]: Виж: [The coils of the serpent.](https://newdegeneration.xyz/the-coils-of-the-serpent) Превод Никола Стоянов. 23 Aug 2021. Нова Дегенерация.
+[^40]: Виж: [The coils of the serpent.](https://blog.newdegeneration.xyz/the-coils-of-the-serpent) Превод Никола Стоянов. 23 Aug 2021. Нова Дегенерация.
 
 [^41]: [Hito Steyerl A Sea of Data: Pattern Recognition and Corporate Animism (Forked Version). 2018.](https://doi.org/10.25969/mediarep/12348) p.15-16.
 
