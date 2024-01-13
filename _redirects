@@ -1,2 +1,2 @@
-# Redirect from old subdomain to new domain
+
 /unsound-hikikomori/*           https://blog.newdegeneration.xyz/unsound-hikikomori/:splat   301!
