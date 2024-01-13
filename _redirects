@@ -1,17 +1,3 @@
 # Redirect all old URLs to new domain
-/unsound-hikikomori/*                     https://blog.newdegeneration.xyz/unsound-hikikomori/:splat    301
-/about/*                                  https://blog.newdegeneration.xyz/about 301
-/templeton-episode/*                      https://blog.newdegeneration.xyz/templeton-episode  301
-/latent-space/*                           https://blog.newdegeneration.xyz/latent-space 301
-/glosolalia-xenoglasia/*                  https://blog.newdegeneration.xyz/glosolalia-xenoglasia 301
-/ballard-manifesto/*                      https://blog.newdegeneration.xyz/ballard-manifesto 301
-/hyperstition/*                           https://blog.newdegeneration.xyz/hyperstition 301
-/cyberpostive-nick-land/*                 https://blog.newdegeneration.xyz/cyberpostive-nick-land 301
-/geotrauma/*                              https://blog.newdegeneration.xyz/geotrauma 301
-/xenofeminism//*                          https://blog.newdegeneration.xyz/xenofeminism 301
-/herzog-minessota-declartion/*            https://blog.newdegeneration.xyz/herzog-minessota-declartion 301
-/corona-demonology/*                      https://blog.newdegeneration.xyz/corona-demonology 301
-/the-coils-of-the-serpent/*               https://blog.newdegeneration.xyz/the-coils-of-the-serpent 301
-/term-vs-avatar/*                         https://blog.newdegeneration.xyz/term-vs-avatar 301
-/neatest-trick/*                          https://blog.newdegeneration.xyz/neatest- 301
-/objects-all-the-way-down/*               https://blog.newdegeneration.xyz/objects-all-the-way-down 301
+/*    https://blog.newdegeneration.xyz/:splat    301
+/unsound-hikikomori/*    https://blog.newdegeneration.xyz/unsound-hikikomori/:splat    301
