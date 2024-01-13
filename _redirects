@@ -1,2 +1,2 @@
-# Redirect from old subdomain to new domain
-https://newdegeneration.netlify.app/* https://blog.newdegeneration.xyz/:splat 301!
+# Redirect all old URLs to new domain
+/*    https://blog.newdegeneration.xyz/:splat    301
