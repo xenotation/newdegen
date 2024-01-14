@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/unsound-hikikomori/*"
+  to = "https://blog.url.xyz/unsound-hikikomori/:splat"
+  status = 301
+  force = true
