@@ -22,14 +22,6 @@ social:
 
 # Contact settings
 contact_img: /assets/images/placeholder-28.jpg
-# formcarry: https://formcarry.com/s/V_62QlIt-Ik-
-
-# Disqus settings
-disqus: zasegane
-
-# MailChimp settings
-mailchimp_action: 
-mailchimp_input: 
 
 # Author settings
 author:
@@ -84,7 +76,6 @@ exclude:
   - package.json
   - README.mdgem
   - vendor
-include:
   - _redirects
 
 
