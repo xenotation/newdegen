@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "/unsound-hikikomori/*"
-  to = "https://blog.newdegeneration.xyz/unsound-hikikomori/:splat"
+  from = "/unsound-hikikomori/"
+  to = "https://blog.newdegeneration.xyz/unsound-hikikomori"
   status = 301
   force = true
