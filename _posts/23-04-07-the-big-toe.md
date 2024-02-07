@@ -5,7 +5,7 @@ permalink:
 title: "Палецът на крака"
 author: Ники Долния
 prevodot: Жорж Батай
-meta: ""
+
 description: ""
 image: 
 

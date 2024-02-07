@@ -3,8 +3,7 @@ layout: post
 title: "Корона Демонология"
 author: Ники Долния
 prevodot: Джейсън Бахбах Мохагех
-meta: "Оригинален текст взет от четене в Urbanomic PlaguePod 41, текстът представлява преработка на главата Selenomania от Omnicide: Mania, Fatality and Future-Delirium на същия автор."
-description: "Оригинален текст взет от четене в Urbanomic PlaguePod 41, текстът представлява преработка на главата Selenomania от Omnicide: Mania, Fatality and Future-Delirium на същия автор."
+description: "Превод на тема демонологията и нейната връзка със сегащното състояние на масовата култура. Окултна преработка на масовата мания разкриваща се пред нас."
 categories: theory
 published: true
 permalink: /corona-demonology
@@ -20,6 +19,7 @@ tags:
   - Хиперверия
 ---
 
+Превод на тема демонологията и нейната връзка със сегащното състояние на масовата култура. Окултна преработка на масовата мания разкриваща се пред нас.
 Оригинален текст взет от четене в [Urbanomic PlaguePod 41](https://soundcloud.com/urbanomic/plaguepod-bonus-coronademonology), текстът представлява преработка на главата Selenomania от Omnicide: Mania, Fatality and Future-Delirium на същия автор. Превод Н.Д. Редакция М.М.
 
 <iframe width="100%" height="240" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/811913284&color=%23a4a49c&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=true"></iframe>

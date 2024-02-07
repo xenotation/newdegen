@@ -5,7 +5,7 @@ permalink: /templeton-episode
 title: "Разкази от Ктулху Клуба - Епизодът Темпълтън"
 author: Ники Долния
 prevodot: CCRU
-meta: "Монография, част от серията Дигиталния Хиперверия, взета стария Cybernetic Culture Research Unit сайт."
+
 description: "Монография, част от серията Дигиталния Хиперверия, взета стария Cybernetic Culture Research Unit сайт."
 image: /assets/images/tempelton.gif
 
