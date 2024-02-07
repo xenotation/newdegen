@@ -68,7 +68,7 @@ tags:
 <br>(Представен на Акселерационистки Симпозий, Университет Голдсмит, Лондон; 14/09/2010)
 *преведено от Н. Д.*
 
-# BIBLIOGRAPHY
+## Библиография
 
 [^LE1]: Lyotard, Jean-Francois. (1993) Libidinal Economy. Bloomington: Indiana University Press, p. 218
 [^LE2]: Libidinal Economy, p. xvii

@@ -261,7 +261,6 @@ tags:
 15. хиперверно: в.пр. от Hyperstition концепцията развита от Ник Ланд. Hyperstition е сливане на двете думи: hyper (хипер) и superstition (суеверие). 
 
 ## Библиография
-
 [^1]: Sigmund Freud, *The Psychotherapy of Hysteria* (1895)
 [^2]: D. Barker, ‘Barker Speaks’, in N. Land, *Fanged Noumena* (Falmouth/NY: Urbanomic/Sequence, 2011)
 [^3]: D. Barker, ‘Barker Speaks’
