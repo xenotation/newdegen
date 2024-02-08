@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="post">
-
+  <article itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -23,7 +23,10 @@ layout: default
       },
       "datePublished": "{{ page.date | date_to_xmlschema }}",
       "image": "{{ page.image }}",
-        }
+      "publisher": {
+        "@type": "Organization",
+        "name": "Нова Дегенерация",
+
       },
       "mainEntityOfPage": {
         "@type": "WebPage",
@@ -61,7 +64,7 @@ layout: default
 
     {% include disqus.html %}
 
-
+  </article>
 </div>
 
 <!-- Links to Previous/Next posts -->
