@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="post">
-  <article itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -10,9 +10,9 @@ layout: default
       "headline": "{{ page.title }}",
       "author": {
         "@type": "Person",
-        "name": "Nikola Stoyanov",
+        "name": "Никола Стоянов",
         "url": "https://newdegeneration.xyz/bg/bio/",
-        "jobTitle": "визуален философ",
+        "jobTitle": "философ",
         "sameAs": [
           "https://www.facebook.com/av0id.nd/",
           "https://www.instagram.com/avoid.nd/",
@@ -23,12 +23,6 @@ layout: default
       },
       "datePublished": "{{ page.date | date_to_xmlschema }}",
       "image": "{{ page.image }}",
-      "publisher": {
-        "@type": "Organization",
-        "name": "{{ site.title }}",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "{{ site.logo }}"
         }
       },
       "mainEntityOfPage": {
@@ -67,7 +61,7 @@ layout: default
 
     {% include disqus.html %}
 
-  </article>
+
 </div>
 
 <!-- Links to Previous/Next posts -->
