@@ -3,11 +3,45 @@ layout: default
 ---
 <div class="post">
   <article itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": "{{ page.title }}",
+      "author": {
+        "@type": "Person",
+        "name": "Nikola Stoyanov",
+        "url": "https://newdegeneration.xyz/bg/bio/",
+        "jobTitle": "визуален философ",
+        "sameAs": [
+          "https://www.facebook.com/av0id.nd/",
+          "https://www.instagram.com/avoid.nd/",
+          "https://www.linkedin.com/in/nstoyanov23/",
+          "https://twitter.com/new_degen",
+          "https://www.youtube.com/@newdegeneration"
+        ]
+      },
+      "datePublished": "{{ page.date | date_to_xmlschema }}",
+      "image": "{{ page.image }}",
+      "publisher": {
+        "@type": "Organization",
+        "name": "{{ site.title }}",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "{{ site.logo }}"
+        }
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ page.url | absolute_url }}"
+      }
+    }
+    </script>
+
     <div class="post__header section-padding--double">
       <div class="grid-small">
         <h1 itemprop="name headline">{{ page.title }}</h1>
         <h2 itemprop="name author">{{ page.prevodot }}</h2>
-
         <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%-d %b %Y" }}</time>
       </div>
     </div>
@@ -31,38 +65,10 @@ layout: default
       </div>
     </div>
 
-    
-
-    <!-- Everything inside the #author tags pulls data from the author -->
-    {% if page.author %}
-      <div class="section-padding--none">
-        <div class="grid">
-          <hr class="sep"/>
-        </div>
-      </div>
-
-      <div class="section-padding">
-        <div class="grid-small">
-          <!-- {% for author in page.author %}
-            {% assign authorDetails = site.author | where: "name", author %}
-            {% if forloop.first == true %}
-              <span class="post__author">Posted by
-            {% else %}
-              <span class="post__author">&amp;
-            {% endif %}
-            {% if authorDetails[0]["url"] %}<a href="{{ authorDetails[0]['url'] }}" title="More By {{ author }}">{% endif %}{{ author }}{% if authorDetails[0]["url"] %}</a>{% endif %}</span>
-            <p class="post__bio">{{ authorDetails[0]["bio"] }}</p> -->
-          {% endfor %}
-        </div>
-      </div>
-    {% endif %}
-
     {% include disqus.html %}
 
   </article>
 </div>
-
-
 
 <!-- Links to Previous/Next posts -->
 {% assign relatedTag = page.tags | first %}
