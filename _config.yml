@@ -47,7 +47,7 @@ autopages:
   tags:
     layouts: 
       - 'tag.html'
-
+    title: 'Текстове относно :tag'
     permalink: '/tag/:tag'
     slugify:
       mode: raw
