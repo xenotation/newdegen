@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /inside-the-AOE
+permalink: /inside-the-aoe
 
 title: "В Архитектоничния Орден на Есхатона"
 author: Ники Долния
