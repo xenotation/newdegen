@@ -11,21 +11,18 @@
 //---------------------------------------------- 
 // CUSTOM STYLING
 //---------------------------------------------- 
-.ascii-art {
+.ascii-art a {
     white-space: pre;
     font-family: monospace;
-    font-size: 14px; /* Adjust the font size as needed */
+    font-size: 1rem; /* Adjust the font size as needed */
     line-height: 1; /* Adjust line height as needed */
     margin: 0; /* Remove any default margins */
     padding: 0; /* Remove any default padding */
     width: 100%; /* Ensure the ASCII art doesn't exceed container width */
-    text-align: center;
-    display: block;
-    transition: box-shadow 0.5s ease-in-out;
+    color: #EEFFFF;
+    text-decoration-color: #EEFFFF;
   }
-  .pulse:hover {
-    box-shadow: 0 0 20px 10px rgba(255, 255, 255, 0.7);
-  }
+
   
   
 
