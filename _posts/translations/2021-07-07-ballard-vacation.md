@@ -10,10 +10,10 @@ image: /assets/images/ballard/Klasen2_525.jpg
 
 categories: theory
 tags:
-  - Sci-Fi
-  - theory
-  - theory-fiction
-  - pulp
+  - странни разкази
+  - научна фантастика
+  - теоретична фикция
+  - пълп
 
 published: true
 ---

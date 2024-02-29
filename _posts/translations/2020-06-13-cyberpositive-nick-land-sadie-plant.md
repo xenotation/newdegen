@@ -9,15 +9,15 @@ description: "Есе за пръв път представено на симпо
 image: /assets/images/do_androids_dream_of_electric_sheep.jpg
 categories: theory
 tags:
+  - Аселерационизъм
+  - кибернетика
+  - обратна връзка
+  - дрога
   - Nick Land
-  - cybernetics
-  - CCRU
-  - Drugs
-  - Control
-  - Feedback
+  - Ник Ланд
   - Theory
-  - Translation
-  - Accelarationism
+  - окултура
+  - хиперверия
 published: true
 ---
 

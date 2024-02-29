@@ -10,9 +10,9 @@ published: true
 permalink: /herzog-minessota-declartion
 image: /assets/images/lessons-of-darkness.jpg
 tags:
-  - Cinema Verte
-  - Wernoz Herzog
-  - Cinema
+  - Синема Верте
+  - Вернер Херцог
+  - Кино
 ---
 *преведено от Н. Д.*
 

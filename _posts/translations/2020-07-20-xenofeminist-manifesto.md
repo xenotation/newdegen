@@ -8,14 +8,15 @@ description: "Ксенофеминисткият Манифест е опит з
 image: /assets/images/XF/giger.jpg
 categories: theory
 tags:
-  - cybernetics
-  - feminism
-  - technology
+  - кибернетика
+  - феминизъм
+  - Аселерационизъм
   - CCRU
   - Translation
-  - Control
-  - Accelaration
-  - xeno
+  - контрол
+  - ксенофеминизъм
+  - киберфеминизъм
+  - окултура
 
 published: true
 ---

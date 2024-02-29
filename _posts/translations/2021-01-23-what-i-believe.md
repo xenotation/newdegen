@@ -10,10 +10,12 @@ image: /assets/images/ballard/tekla_aleksieva.jpg
 
 categories: theory
 tags:
-  - Sci-Fi
-  - theory
-  - theory-fiction
-  - pulp
+  - научна фантастика
+  - теория
+  - хиперрия
+  - странни разкази
+  - пълп
+  - окултура
 
 published: true
 ---
