@@ -3,7 +3,7 @@ email: av0id.biz@gmail.com
 permalink: /:title/
 google_analytics: UA-30039942-2
 
-name: Niki the Low
+name: Nikola Vladislavov Stoyanov
 title: НОВА ДЕГЕНЕРАЦИЯ
 description: >
   Малък уебзайн за изкуство, философия, критическа теория и окултура.
@@ -25,8 +25,8 @@ contact_img: /assets/images/placeholder-28.jpg
 
 # Author settings
 author:
-  - name: Ники Долния
-    bio: някво долно типче
+  - name: Nikola Vladislavov Stoyanov
+    bio: Philosopher and visual artist
 
 # Pagination settings
 pagination:
