@@ -20,26 +20,26 @@ published: false
 
 ---
 
-<img src="\assets\images\JPEG\P8180655-1.jpg" alt=""> 
+<img src="/assets/images/JPEG/P8180655-1.jpg" alt=""> 
 
 ---
 
-<img src="\assets\images\JPEG\P8180664-1.jpg" alt=""> 
+<img src="/assets/images/JPEG/P8180664-1.jpg" alt=""> 
 
 ---
 
-<img src="\assets\images\JPEG\P8180661-1.jpg" alt=""> 
+<img src="/assets/images/JPEG/P8180661-1.jpg" alt=""> 
 
 ---
 
-<img src="\assets\images\JPEG\P8180662-1.jpg" alt=""> 
+<img src="/assets/images/JPEG/P8180662-1.jpg" alt=""> 
 
 ---
 
-<img src="\assets\images\JPEG\P8180666-1.jpg" alt="">
+<img src="/assets/images/JPEG/P8180666-1.jpg" alt="">
 
 ---
 
 *Пловдив-Варна, Лято 2018*
 
-<img src="\assets\images\JPEG\P8180644-1.jpg" alt="">
+<img src="/assets/images/JPEG/P8180644-1.jpg" alt="">
