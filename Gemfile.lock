@@ -14,7 +14,7 @@ GEM
     ffi (1.15.5-x64-mingw32)
     forwardable-extended (2.6.0)
     http_parser.rb (0.8.0)
-    i18n (1.14.1)
+    i18n (1.14.4)
       concurrent-ruby (~> 1.0)
     jekyll (4.2.2)
       addressable (~> 2.4)
@@ -31,6 +31,9 @@ GEM
       rouge (~> 3.0)
       safe_yaml (~> 1.0)
       terminal-table (~> 2.0)
+    jekyll-auto-authors (1.0.4)
+      jekyll (>= 3.0.0)
+      jekyll-paginate-v2 (>= 3.0.0)
     jekyll-paginate-v2 (3.0.0)
       jekyll (>= 3.0, < 5.0)
     jekyll-sass-converter (2.1.0)
@@ -44,7 +47,7 @@ GEM
     kramdown-parser-gfm (1.1.0)
       kramdown (~> 2.0)
     liquid (4.0.4)
-    listen (3.8.0)
+    listen (3.9.0)
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
@@ -75,6 +78,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
+  jekyll-auto-authors
   jekyll-paginate-v2
   jekyll-sitemap
   kramdown-parser-gfm

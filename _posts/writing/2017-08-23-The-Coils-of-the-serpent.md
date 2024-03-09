@@ -11,12 +11,10 @@ image: /assets/images/dizer/strangelove.jpg
 
 categories: writing
 tags:
-  - Theory
-  - Heidegger
-  - Gilles Deleuze
-  - Cybernetics
-  - Politics
-  - Society of Control
+  - Хайдегер
+  - Жил Делуз
+  - кибернетика
+  - ощество на контрола
 
 published: true
 ---

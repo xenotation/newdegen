@@ -13,11 +13,11 @@ tags:
   - CCRU
   - Хиперверия
   - АОЕ
-  - Nick Land
   - Ник Ланд
   - окултура
   - хиперверия
-  - theory-fiction
+  - теоретични фикциии
+  - пълп
 
 published: true
 ---

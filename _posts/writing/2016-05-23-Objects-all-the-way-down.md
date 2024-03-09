@@ -9,11 +9,10 @@ image: /assets/images/objects/spiral.jpg
 
 categories: writing
 tags:
-  - Theory
-  - Heidegger
-  - Husserl
-  - Graham Harman
-  - Object Oriented Ontology
+  - хайдегер
+  - хъсеръл
+  - греъм харман
+  - Обектно Ориентирана Онтология
 
 published: true
 ---
