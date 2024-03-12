@@ -1,7 +1,15 @@
 <!-- The footer at the very bottom of the screen -->
 <footer class="footer section-padding">
     <div class="footer__container">
-      {% tags_list :threshold => 1, :sort_by => count, :order_by => desc, :limit => 5 %}
+      {% if page.tags.size > 0 %}
+      <ul class="post-tags">
+        {% for tag in page.tags %}
+          {% assign tag_url = tag | slugify %}
+          <li><a href="{{ site.baseurl }}/tag/{{ tag_url }}">{{ tag }}</a></li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+    
 
       {% include social.html %}
     </div>

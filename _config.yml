@@ -50,7 +50,6 @@ autopages:
     title: 'Текстове относно :tag'
     permalink: '/tag/:tag'
     slugify:
-      mode: raw
       cased: true
 
 
