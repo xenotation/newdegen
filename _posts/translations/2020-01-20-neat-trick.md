@@ -9,7 +9,7 @@ published: true
 permalink: /neatest-trick
 image: /assets/images/uncleted.jpeg
 tags: 
-  - анти-цив
+  - Анти-Цив
   - Акселерационизъм
   - Translations
 ---

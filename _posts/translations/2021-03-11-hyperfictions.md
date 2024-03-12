@@ -12,10 +12,9 @@ image: /assets/images/migrane_map.jpg
 categories: theory
 tags:
   - Ктулху
-  - окултура
+  - Окултура
   - Хиперверия
   - Лъвкрафт
-  - Tranlations
 
 published: true
 ---

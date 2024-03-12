@@ -9,9 +9,9 @@ image: /assets/images/objects/spiral.jpg
 
 categories: writing
 tags:
-  - хайдегер
-  - хъсеръл
-  - греъм харман
+  - Хайдегер
+  - Хъсеръл
+  - Греъм Харман
   - Обектно Ориентирана Онтология
 
 published: true

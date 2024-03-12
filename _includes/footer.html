@@ -1,20 +1,24 @@
-<!-- The footer at the very bottom of the screen -->
 <footer class="footer section-padding">
-    <div class="footer__container">
+  <div class="footer__container">
+    <div class="footer__tags">
       {% if page.tags.size > 0 %}
-      <ul class="post-tags">
+        {% assign max_tags = 5 %}
+        {% assign tag_count = 0 %}
         {% for tag in page.tags %}
-          {% assign tag_url = tag | slugify %}
-          <li><a href="{{ site.baseurl }}/tag/{{ tag_url }}">{{ tag }}</a></li>
+          {% assign tag_url = tag | url_slug %}
+          <a class="footer__link" href="{{ site.baseurl }}/tag/{{ tag_url }}">{{ tag }}</a>
+          {% assign tag_count = tag_count | plus: 1 %}
+          {% if tag_count == max_tags %}
+            {% break %}
+          {% endif %}
         {% endfor %}
-      </ul>
-    {% endif %}
-    
-
-      {% include social.html %}
+      {% endif %}
     </div>
+    {% include social.html %}
   </div>
 </footer>
+
+
 
 {% include contact.html %}
 
@@ -25,4 +29,3 @@
 {% endif %}
 
 <script src="{{ '/assets/js/app.min.js' | prepend: site.baseurl }}"></script>
-
