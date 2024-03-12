@@ -53,6 +53,7 @@ autopages:
       mode: raw
       cased: true
 
+
 # Build settings
 markdown: kramdown
 plugins:
