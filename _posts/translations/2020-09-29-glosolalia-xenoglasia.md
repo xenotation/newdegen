@@ -10,7 +10,6 @@ permalink: /glosolalia-xenoglasia
 image: /assets/images/xenoglasia.jpeg
 tags:
   - Глосолалия
-  - Музика
   - Окултно християнство
   - Окултура
   - Лингвистика

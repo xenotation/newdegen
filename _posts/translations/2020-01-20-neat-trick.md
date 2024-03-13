@@ -11,7 +11,6 @@ image: /assets/images/uncleted.jpeg
 tags: 
   - Анти-Цив
   - Акселерационизъм
-  - Translations
 ---
 *превод Н. Д. с помощ от М. М.*
 

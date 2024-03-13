@@ -11,7 +11,6 @@ image: /assets/images/Corona/colortemplate.jpg
 tags:
   - Селеномания
   - Демонология
-  - Фолклор
   - Окултура
   - Лъвкрафт
   - Хиперверия

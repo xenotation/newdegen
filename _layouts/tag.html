@@ -1,6 +1,5 @@
 ---
 layout: default
-
 ---
 
 <section class="mast section-padding--double">
@@ -8,6 +7,14 @@ layout: default
     <h1>
       {{ page.autopages.display_name }}
     </h1>
+          {% assign tag_name = page.autopages.display_name %}
+          {% for topic in site.data.topics %}
+            {% if topic.display_name == tag_name %}
+              <div>
+                <p>{{ topic.display_description }}</p>
+              </div>
+            {% endif %}
+          {% endfor %}
   </div>
 </section>
 
@@ -17,17 +24,16 @@ layout: default
   </div>
 </div>
 
-<!-- The main content area -->
+
 <div class="posts">
   <div class="grid-xlarge">
     <div class="posts__container" itemscope itemtype="http://schema.org/Blog" data-columns>
 
       {% for post in paginator.posts %}
-
-        <!-- The tag below includes the markup for each post - partials/post-card.html -->
         {% include post-card.html %}
-
       {% endfor %}
+
+
     </div>
   </div>
 

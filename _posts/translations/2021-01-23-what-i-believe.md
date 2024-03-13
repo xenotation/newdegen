@@ -11,9 +11,8 @@ image: /assets/images/ballard/tekla_aleksieva.jpg
 categories: theory
 tags:
   - Научна Фантастика
-  - Теория
-  - Хиперрия
-  - Странни разкази
+  - Хиперверия
+  - Странни Разкази
   - Пълп
   - Окултура
 

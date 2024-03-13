@@ -10,9 +10,9 @@ published: true
 permalink: /herzog-minessota-declartion
 image: /assets/images/lessons-of-darkness.jpg
 tags:
-  - Синема Верте
-  - Вернер Херцог
-  - Кино
+
+
+  - Хиперверия
 ---
 *преведено от Н. Д.*
 
