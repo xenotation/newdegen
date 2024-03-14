@@ -1,15 +1,19 @@
-<article class="posts__post" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="posts__post" itemscope itemtype="http://schema.org/BlogPosting">
   <a class="posts__link" href="{{ post.url | prepend: site.baseurl }}" itemprop="url">
     {% if post.image %}
       <figure class="posts__img">
         <img src="{{ post.image }}" alt="{{ post.title }}" data-aos="spin" itemprop="image"/>
       </figure>
     {% endif %}
-    <div>
-      <strong itemprop="name"> {{ post.title }} <br/> {{post.prevodot}}</strong> <br/> 
+    <div itemprop="articleBody">
+      <strong itemprop="headline"> {{ post.title }} <br/> {{ post.prevodot }}</strong> <br/> 
       <span itemprop="description" class="hyphenate">
         {{ post.description | strip_html | truncatewords: 35, "..." }}
       </span>
+      <p itemprop="author" itemscope itemtype="http://schema.org/Person">
+        Author: <span itemprop="name">Nikola Vladislavov Stoyanov</span>
+        <link itemprop="url" href="https://newdegeneration.xyz/bio/"/>
+      </p>
     </div>
   </a>
 </article>
