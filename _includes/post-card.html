@@ -6,7 +6,7 @@
       </figure>
     {% endif %}
     <div itemprop="articleBody">
-      <strong itemprop="headline"> {{ post.title }} <br/> {{ post.prevodot }}</strong> <br/> 
+      <strong itemprop="headline"> {{ post.title }} <br/> - {{ post.prevodot }}</strong> <br/> 
       <span itemprop="description" class="hyphenate">
         {{ post.description | strip_html | truncatewords: 35, "..." }}
       </span>

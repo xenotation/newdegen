@@ -106,7 +106,7 @@ published: true
 Може да не знаем какво се случва, но ставаме все по-топли. Само враговете на имуноидентичността населват бъдещето.
 
 ---
-*преведено от Н. Д. редакция М.М.* [оригиналът](http://www.sterneck.net/cyber/plant-land-cyber/) може да се намери в [#Accelerate,
+*преведено от Никола Стоянов, редакция М.М.* [оригиналът](http://www.sterneck.net/cyber/plant-land-cyber/) може да се намери в [#Accelerate,
 The Accelerationist Reader](https://www.urbanomic.com/book/accelerate/), Urbanomic
 
 

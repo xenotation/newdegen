@@ -59,7 +59,7 @@ tags:
 
 оригинален текст взет от [AUDINT—Unsound:Undead](https://www.urbanomic.com/book/unsoundundead/), издаденa от Urbanomic, Apr 2019
 <br>
-превод Н.Д., редакция Е.Г.
+превод Никола Стоянов, редакция Е.Г.
 
 ## Илюстрации
 <br>I. Малките демончета който Сатō халюценира.
